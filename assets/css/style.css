@@ -5,11 +5,12 @@
 	--color-light3: #312d37;
 	--color-light4: #000;
 
-	--bg-color-blue1: #0ef;
-	--bg-color-blue2: rgb(21, 35, 36);
-	--bg-color-blue3: rgb(81, 193, 199);
+	--bg-color-blue1: rgb(64, 122, 128);
+	--bg-color-blue2: rgb(6, 238, 250);
+	--bg-color-blue3: #08ebf7;
 
-	--color-gradient: linear-gradient(90deg,
+	--color-gradient: linear-gradient(
+		90deg,
 		var(--bg-color-blue1),
 		var(--bg-color-blue2),
 		var(--bg-color-blue3)
